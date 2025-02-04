@@ -1,7 +1,5 @@
 # Covid vs GDP Analysis
 
-## Covid & GDP per capita correlation analysis
-
 ### Objectives:
 
 - Understand the spread and impact of COVID-19 globally.
