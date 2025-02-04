@@ -1,1 +1,1 @@
-# covid-vs-gdp-analysis
+# Covid vs GDP Analysis
