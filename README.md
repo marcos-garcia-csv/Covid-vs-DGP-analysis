@@ -43,3 +43,5 @@ Possible explanations:
 Wealthier countries conducted more testing, leading to higher reported cases.
 Lower-income countries had underreporting issues.
 Variations in government responses (lockdowns, vaccinations, healthcare capacity).
+
+![output](https://github.com/user-attachments/assets/fdec0706-dd8e-4b43-bebb-c075668df112)
