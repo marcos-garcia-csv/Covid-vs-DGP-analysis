@@ -47,5 +47,9 @@ Variations in government responses (lockdowns, vaccinations, healthcare capacity
 ![output](https://github.com/user-attachments/assets/fdec0706-dd8e-4b43-bebb-c075668df112)
 
 ### COVID-19 Trends
-![covid deaths   cases](https://github.com/user-attachments/assets/e944a6ad-6032-453d-bfe2-4d2a42b4a38d)
+![covid deaths   cases](https://github.com/user-attachments/assets/5034b857-22fe-44b1-92ec-ca6610a94ff6)
+
+Cases peaked in 2021, followed by a decline in 2022.
+Deaths also peaked in 2021, showing a lagging impact of severe cases.
+The decline in 2022 could be attributed to vaccination efforts, improved treatments, and natural immunity.
 
