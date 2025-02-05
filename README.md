@@ -45,3 +45,7 @@ Lower-income countries had underreporting issues.
 Variations in government responses (lockdowns, vaccinations, healthcare capacity).
 
 ![output](https://github.com/user-attachments/assets/fdec0706-dd8e-4b43-bebb-c075668df112)
+
+### COVID-19 Trends
+![covid deaths   cases](https://github.com/user-attachments/assets/e944a6ad-6032-453d-bfe2-4d2a42b4a38d)
+
