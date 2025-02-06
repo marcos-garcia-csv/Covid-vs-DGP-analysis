@@ -52,7 +52,7 @@ The spread increases as we move from 2020 to 2022, indicating cumulative deaths 
 
 ### GDP per Capita VS Covid-19 Cases.
 
-![GDP per Capita VS Covid-19 Cases](https://github.com/user-attachments/assets/ccf97800-eb61-4f66-aed9-0c5d481dfc8b)
+![GDP VS Covid-19 Cases (2020-2022)](https://github.com/user-attachments/assets/6698f31a-960e-4280-9110-a92360d34982)
 
 The majority of countries cluster on the lower left, indicating low GDP per capita with varying cumulative deaths. This suggests a strong concentration of lower-income countries with relatively lower death counts.
 
