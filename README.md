@@ -51,5 +51,5 @@ Variations in government responses (lockdowns, vaccinations, healthcare capacity
 
 Cases peaked in 2021, followed by a decline in 2022.
 Deaths also peaked in 2021, showing a lagging impact of severe cases.
-The decline in 2022 could be attributed to vaccination efforts, improved treatments, and natural immunity.
+The decline in 2022 are attributed to improvement in treatments, vaccionations, social distancing.
 
