@@ -30,11 +30,11 @@ The dataset includes 177 countries with yearly data on GDP per capita, COVID-19 
 Countries with larger populations generally had higher total case counts.
 The number of daily new cases and deaths peaked in 2021, followed by a decline in 2022.
 Fatality rates varied significantly across countries due to healthcare quality and government interventions.
-3.2 GDP Per Capita Trends
+
 Global GDP per capita slightly increased from 2020 to 2022, suggesting economic recovery post-pandemic.
 Some low-GDP nations saw declines, indicating greater economic damage.
 High-income countries recovered faster.
-3.3 Correlation Between GDP and COVID-19 Severity
+
 The correlation analysis between GDP per capita and COVID-19 impact metrics revealed:
 
 Weak negative correlation (-0.2 to -0.3) between GDP per capita and COVID cases & deaths.
